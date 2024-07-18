@@ -35,3 +35,15 @@ Suporte a JavaScript e TypeScript: Vitest suporta testes tanto para código Java
 
 Entre outros...
 
+- d)
+
+Vscode:
+
+Editor Leve e Rápido: VSCode é conhecido por ser um editor leve e rápido, capaz de lidar com projetos de qualquer tamanho, desde pequenos scripts até grandes aplicações empresariais.
+
+Suporte a Diversas Linguagens de Programação: Oferece suporte nativo a várias linguagens de programação, incluindo JavaScript, TypeScript, Python, C++, Java, entre outras. Além disso, sua extensibilidade permite adicionar suporte a praticamente qualquer linguagem através de extensões.
+
+Extensões e Personalização: O marketplace de extensões do VSCode oferece milhares de extensões que ampliam suas funcionalidades, desde temas de interface até ferramentas de integração contínua, depuração e controle de versão. Os desenvolvedores podem personalizar o editor conforme suas necessidades específicas.
+
+Integração com Git: VSCode possui integração nativa com Git, permitindo que os desenvolvedores realizem operações de controle de versão diretamente do editor, como commit, push, pull, e merge. Também é compatível com outras ferramentas de controle de versão através de extensões.
+
