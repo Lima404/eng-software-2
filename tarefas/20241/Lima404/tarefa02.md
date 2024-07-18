@@ -22,3 +22,16 @@ Next.js é um framework de desenvolvimento web baseado em React, que permite a c
 Integrar Next.js com TypeScript é uma prática comum, pois TypeScript adiciona tipagem estática ao JavaScript, ajudando a detectar erros em tempo de desenvolvimento e melhorando a manutenção do código. O Next.js possui suporte nativo para TypeScript, tornando a configuração inicial simples e direta.
 
 
+- c) 
+
+Vitest é uma ferramenta moderna de teste de software para JavaScript e TypeScript, desenvolvida com foco em simplicidade, desempenho e integração com frameworks modernos como Vite. É uma alternativa rápida e leve a outros frameworks de teste, como Jest, oferecendo uma experiência otimizada para desenvolvedores que utilizam o ecossistema Vite.
+
+Características Principais do Vitest
+Integração com Vite: Vitest é projetado para funcionar perfeitamente com Vite, um bundler e servidor de desenvolvimento rápido. Isso permite uma configuração de ambiente de teste sem complicações e um desempenho superior em comparação com outras ferramentas de teste tradicionais.
+
+Desempenho: O Vitest é extremamente rápido, aproveitando a construção incremental e a capacidade de cache do Vite. Isso resulta em execuções de teste mais rápidas, especialmente em projetos grandes.
+
+Suporte a JavaScript e TypeScript: Vitest suporta testes tanto para código JavaScript quanto TypeScript, oferecendo uma experiência de desenvolvimento fluida e integrada. 
+
+Entre outros...
+
