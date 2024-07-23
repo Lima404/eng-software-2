@@ -51,3 +51,7 @@ Integração com Git: VSCode possui integração nativa com Git, permitindo que 
 - e) Link de CRUD com Node + Fastify
 
 * [Rest API com Node e Fastify](https://www.youtube.com/watch?v=E6mZSJFozvM)
+
+- f) Mock Objects em Testes de Unidade
+
+Mock Objects são objetos simulados que imitam o comportamento de objetos reais de forma controlada. Eles são amplamente utilizados em testes de unidade para substituir componentes externos ou dependências que são difíceis de configurar ou que tornariam os testes lentos e não determinísticos. Mocks permitem isolar a unidade de código que está sendo testada, garantindo que os testes sejam focados e confiáveis.
