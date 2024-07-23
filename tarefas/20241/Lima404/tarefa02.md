@@ -81,3 +81,8 @@ Nesse teste de autenticação de usuário, podemos ver três testes de unidade, 
 * [Link para o arquivo de mock (in-memory)](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/repositories/in-memory/in-memory-users-repository.ts)
 
 Após a implementação dos testes, percebe-se a importância de uma boa cobertura de testes em um sistema. Foi uma experiência muito boa e contribuiu bastante pro meu aprendizado.
+
+
+- c) Testes de Integração
+
+Testes de integração são um tipo de teste de software que verificam a interação entre diferentes módulos ou componentes de um sistema para garantir que eles funcionem corretamente em conjunto. Eles são realizados após os testes unitários e antes dos testes de sistema. O objetivo é identificar problemas que podem surgir quando componentes integrados interagem entre si.
