@@ -86,3 +86,33 @@ Após a implementação dos testes, percebe-se a importância de uma boa cobertu
 - c) Testes de Integração
 
 Testes de integração são um tipo de teste de software que verificam a interação entre diferentes módulos ou componentes de um sistema para garantir que eles funcionem corretamente em conjunto. Eles são realizados após os testes unitários e antes dos testes de sistema. O objetivo é identificar problemas que podem surgir quando componentes integrados interagem entre si.
+
+## Testes de Integração vs Testes de unidade
+
+### Testes unitários
+
+Foco: Verificam a funcionalidade de unidades individuais de código, como funções ou métodos, em isolamento.
+
+Escopo: Limitado a um único componente.
+
+Objetivo: Garantir que cada unidade de código funcione conforme o esperado.
+
+Velocidade: Rápidos de executar, pois não dependem de recursos externos.
+
+Isolamento: Utilizam mocks e stubs para isolar o componente sendo testado.
+
+### Testes de integração
+
+Foco: Verificam a interação entre múltiplos componentes ou módulos.
+
+Escopo: Inclui vários componentes e suas interações.
+
+Objetivo: Garantir que componentes integrados funcionem corretamente juntos.
+
+Velocidade: Podem ser mais lentos, pois podem envolver recursos reais e configurações mais complexas.
+
+Realismo: Utilizam os componentes reais sempre que possível para testar interações genuínas.
+
+## Uso no projeto
+
+No projeto, por enquanto, não temos testes de integração implementados, somente testes de unidade.
