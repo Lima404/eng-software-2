@@ -67,3 +67,11 @@ Controle: Oferecem controle total sobre o comportamento das dependências, permi
 Velocidade: Aceleram os testes, substituindo dependências que podem ser lentas, como chamadas de rede ou operações de I/O.
 
 Determinismo: Garantem que os testes sejam consistentes e reproduzíveis, pois o comportamento dos mocks é previsível e controlado.
+
+- b) CRUD de Manager
+
+Permite criar, editar, buscar e excluir usuários que são do tipo Manager. Os Manager são do tipo User.
+
+## Testes de autenticação de usuário
+
+* [Link para o arquivo de testes](https://github.com/leonardobezrr/sig-estoque-back-end/blob/dev/src/services/user/authenticate-user.test.ts)
