@@ -55,3 +55,15 @@ Integração com Git: VSCode possui integração nativa com Git, permitindo que 
 - f) Mock Objects em Testes de Unidade
 
 Mock Objects são objetos simulados que imitam o comportamento de objetos reais de forma controlada. Eles são amplamente utilizados em testes de unidade para substituir componentes externos ou dependências que são difíceis de configurar ou que tornariam os testes lentos e não determinísticos. Mocks permitem isolar a unidade de código que está sendo testada, garantindo que os testes sejam focados e confiáveis.
+
+#10.
+
+- a) Por que usar Mock Objects?
+
+Isolamento: Permitem testar uma unidade de código isoladamente, sem depender de outras partes do sistema.
+
+Controle: Oferecem controle total sobre o comportamento das dependências, permitindo simular diferentes cenários e condições.
+
+Velocidade: Aceleram os testes, substituindo dependências que podem ser lentas, como chamadas de rede ou operações de I/O.
+
+Determinismo: Garantem que os testes sejam consistentes e reproduzíveis, pois o comportamento dos mocks é previsível e controlado.
